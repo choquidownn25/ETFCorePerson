@@ -1,0 +1,241 @@
+D:\Evolutions service\Account-master\Prueba\coderush\bin\Debug\netcoreapp2.1\Prueba.deps.json
+D:\Evolutions service\Account-master\Prueba\coderush\bin\Debug\netcoreapp2.1\Prueba.runtimeconfig.json
+D:\Evolutions service\Account-master\Prueba\coderush\bin\Debug\netcoreapp2.1\Prueba.runtimeconfig.dev.json
+D:\Evolutions service\Account-master\Prueba\coderush\bin\Debug\netcoreapp2.1\Prueba.dll
+D:\Evolutions service\Account-master\Prueba\coderush\bin\Debug\netcoreapp2.1\Prueba.pdb
+D:\Evolutions service\Account-master\Prueba\coderush\bin\Debug\netcoreapp2.1\es\Prueba.resources.dll
+D:\Evolutions service\Account-master\Prueba\coderush\bin\Debug\netcoreapp2.1\fr\Prueba.resources.dll
+D:\Evolutions service\Account-master\Prueba\coderush\obj\Debug\netcoreapp2.1\Prueba.Recursos.Resource.resources
+D:\Evolutions service\Account-master\Prueba\coderush\obj\Debug\netcoreapp2.1\Prueba.Resources.Sms.resources
+D:\Evolutions service\Account-master\Prueba\coderush\obj\Debug\netcoreapp2.1\Prueba.Resources.UserProfile.resources
+D:\Evolutions service\Account-master\Prueba\coderush\obj\Debug\netcoreapp2.1\Prueba.Resources.Controller.Ciudad.es.resources
+D:\Evolutions service\Account-master\Prueba\coderush\obj\Debug\netcoreapp2.1\Prueba.Resources.Controllers.SmsController.es.resources
+D:\Evolutions service\Account-master\Prueba\coderush\obj\Debug\netcoreapp2.1\Prueba.Resources.Controllers.SmsController.fr.resources
+D:\Evolutions service\Account-master\Prueba\coderush\obj\Debug\netcoreapp2.1\Prueba.Resources.Sms.es.resources
+D:\Evolutions service\Account-master\Prueba\coderush\obj\Debug\netcoreapp2.1\Prueba.Resources.Sms.fr.resources
+D:\Evolutions service\Account-master\Prueba\coderush\obj\Debug\netcoreapp2.1\Prueba.Resources.UserProfile.es.resources
+D:\Evolutions service\Account-master\Prueba\coderush\obj\Debug\netcoreapp2.1\Prueba.Resources.UserProfile.fr.resources
+D:\Evolutions service\Account-master\Prueba\coderush\obj\Debug\netcoreapp2.1\Prueba.Resources.Views.Ciudad.Index.es.resources
+D:\Evolutions service\Account-master\Prueba\coderush\obj\Debug\netcoreapp2.1\Prueba.Resources.Views.Ciudad.Index.fr.resources
+D:\Evolutions service\Account-master\Prueba\coderush\obj\Debug\netcoreapp2.1\Prueba.Resources.Views.ClaseTarifaria.Index.es.resources
+D:\Evolutions service\Account-master\Prueba\coderush\obj\Debug\netcoreapp2.1\Prueba.Resources.Views.ClaseTarifaria.Index.fr.resources
+D:\Evolutions service\Account-master\Prueba\coderush\obj\Debug\netcoreapp2.1\Prueba.Resources.Views.Credito.Index.es.resources
+D:\Evolutions service\Account-master\Prueba\coderush\obj\Debug\netcoreapp2.1\Prueba.Resources.Views.Credito.Index.fr.resources
+D:\Evolutions service\Account-master\Prueba\coderush\obj\Debug\netcoreapp2.1\Prueba.Resources.Views.DatosMedico.Index.es.resources
+D:\Evolutions service\Account-master\Prueba\coderush\obj\Debug\netcoreapp2.1\Prueba.Resources.Views.DatosMedico.Index.fr.resources
+D:\Evolutions service\Account-master\Prueba\coderush\obj\Debug\netcoreapp2.1\Prueba.Resources.Views.DatosPaciente.Index.es.resources
+D:\Evolutions service\Account-master\Prueba\coderush\obj\Debug\netcoreapp2.1\Prueba.Resources.Views.DatosPaciente.Index.fr.resources
+D:\Evolutions service\Account-master\Prueba\coderush\obj\Debug\netcoreapp2.1\Prueba.Resources.Views.Departamento.Index.es.resources
+D:\Evolutions service\Account-master\Prueba\coderush\obj\Debug\netcoreapp2.1\Prueba.Resources.Views.Departamento.Index.fr.resources
+D:\Evolutions service\Account-master\Prueba\coderush\obj\Debug\netcoreapp2.1\Prueba.Resources.Views.EspecialidadMedica.Index.es.resources
+D:\Evolutions service\Account-master\Prueba\coderush\obj\Debug\netcoreapp2.1\Prueba.Resources.Views.EspecialidadMedica.Index.fr.resources
+D:\Evolutions service\Account-master\Prueba\coderush\obj\Debug\netcoreapp2.1\Prueba.Resources.Views.Especialidad.Index.es.resources
+D:\Evolutions service\Account-master\Prueba\coderush\obj\Debug\netcoreapp2.1\Prueba.Resources.Views.Especialidad.Index.fr.resources
+D:\Evolutions service\Account-master\Prueba\coderush\obj\Debug\netcoreapp2.1\Prueba.Resources.Views.Formulario___Copia.Index.es.resources
+D:\Evolutions service\Account-master\Prueba\coderush\obj\Debug\netcoreapp2.1\Prueba.Resources.Views.Formulario___Copia.Index.fr.resources
+D:\Evolutions service\Account-master\Prueba\coderush\obj\Debug\netcoreapp2.1\Prueba.Resources.Views.Formulario.Index.es.resources
+D:\Evolutions service\Account-master\Prueba\coderush\obj\Debug\netcoreapp2.1\Prueba.Resources.Views.Formulario.Index.fr.resources
+D:\Evolutions service\Account-master\Prueba\coderush\obj\Debug\netcoreapp2.1\Prueba.Resources.Views.Idioma.Index.es.resources
+D:\Evolutions service\Account-master\Prueba\coderush\obj\Debug\netcoreapp2.1\Prueba.Resources.Views.Idioma.Index.fr.resources
+D:\Evolutions service\Account-master\Prueba\coderush\obj\Debug\netcoreapp2.1\Prueba.Resources.Views.MedioPago.Index.es.resources
+D:\Evolutions service\Account-master\Prueba\coderush\obj\Debug\netcoreapp2.1\Prueba.Resources.Views.MedioPago.Index.fr.resources
+D:\Evolutions service\Account-master\Prueba\coderush\obj\Debug\netcoreapp2.1\Prueba.Resources.Views.Menu.Index.es.resources
+D:\Evolutions service\Account-master\Prueba\coderush\obj\Debug\netcoreapp2.1\Prueba.Resources.Views.Menu.Index.fr.resources
+D:\Evolutions service\Account-master\Prueba\coderush\obj\Debug\netcoreapp2.1\Prueba.Resources.Views.Moneda.Index.es.resources
+D:\Evolutions service\Account-master\Prueba\coderush\obj\Debug\netcoreapp2.1\Prueba.Resources.Views.Moneda.Index.fr.resources
+D:\Evolutions service\Account-master\Prueba\coderush\obj\Debug\netcoreapp2.1\Prueba.Resources.Views.Muestra.Index.es.resources
+D:\Evolutions service\Account-master\Prueba\coderush\obj\Debug\netcoreapp2.1\Prueba.Resources.Views.Muestra.Index.fr.resources
+D:\Evolutions service\Account-master\Prueba\coderush\obj\Debug\netcoreapp2.1\Prueba.Resources.Views.Pais.Index.es.resources
+D:\Evolutions service\Account-master\Prueba\coderush\obj\Debug\netcoreapp2.1\Prueba.Resources.Views.Pais.Index.fr.resources
+D:\Evolutions service\Account-master\Prueba\coderush\obj\Debug\netcoreapp2.1\Prueba.Resources.Views.Pqrs.Index.es.resources
+D:\Evolutions service\Account-master\Prueba\coderush\obj\Debug\netcoreapp2.1\Prueba.Resources.Views.Pqrs.Index.fr.resources
+D:\Evolutions service\Account-master\Prueba\coderush\obj\Debug\netcoreapp2.1\Prueba.Resources.Views.Procedimiento.Index.es.resources
+D:\Evolutions service\Account-master\Prueba\coderush\obj\Debug\netcoreapp2.1\Prueba.Resources.Views.Procedimiento.Index.fr.resources
+D:\Evolutions service\Account-master\Prueba\coderush\obj\Debug\netcoreapp2.1\Prueba.Resources.Views.Programa.Index.es.resources
+D:\Evolutions service\Account-master\Prueba\coderush\obj\Debug\netcoreapp2.1\Prueba.Resources.Views.Programa.Index.fr.resources
+D:\Evolutions service\Account-master\Prueba\coderush\obj\Debug\netcoreapp2.1\Prueba.Resources.Views.Rol.Index.es.resources
+D:\Evolutions service\Account-master\Prueba\coderush\obj\Debug\netcoreapp2.1\Prueba.Resources.Views.Rol.Index.fr.resources
+D:\Evolutions service\Account-master\Prueba\coderush\obj\Debug\netcoreapp2.1\Prueba.Resources.Views.SalesType.Index.es.resources
+D:\Evolutions service\Account-master\Prueba\coderush\obj\Debug\netcoreapp2.1\Prueba.Resources.Views.SalesType.Index.fr.resources
+D:\Evolutions service\Account-master\Prueba\coderush\obj\Debug\netcoreapp2.1\Prueba.Resources.Views.Sms.Index.es.resources
+D:\Evolutions service\Account-master\Prueba\coderush\obj\Debug\netcoreapp2.1\Prueba.Resources.Views.Sms.Index.fr.resources
+D:\Evolutions service\Account-master\Prueba\coderush\obj\Debug\netcoreapp2.1\Prueba.Resources.Views.TarifaProcedimiento.Index.es.resources
+D:\Evolutions service\Account-master\Prueba\coderush\obj\Debug\netcoreapp2.1\Prueba.Resources.Views.TarifaProcedimiento.Index.fr.resources
+D:\Evolutions service\Account-master\Prueba\coderush\obj\Debug\netcoreapp2.1\Prueba.Resources.Views.TipoSoporte.Index.es.resources
+D:\Evolutions service\Account-master\Prueba\coderush\obj\Debug\netcoreapp2.1\Prueba.Resources.Views.TipoSoporte.Index.fr.resources
+D:\Evolutions service\Account-master\Prueba\coderush\obj\Debug\netcoreapp2.1\Prueba.Resources.Views.TipSalud.Index.es.resources
+D:\Evolutions service\Account-master\Prueba\coderush\obj\Debug\netcoreapp2.1\Prueba.Resources.Views.TipSalud.Index.fr.resources
+D:\Evolutions service\Account-master\Prueba\coderush\obj\Debug\netcoreapp2.1\Prueba.Resources.Views.UserRole.UserProfile.es.resources
+D:\Evolutions service\Account-master\Prueba\coderush\obj\Debug\netcoreapp2.1\Prueba.Resources.Views.UserRole.UserProfile.fr.resources
+D:\Evolutions service\Account-master\Prueba\coderush\obj\Debug\netcoreapp2.1\Prueba.csproj.GenerateResource.cache
+D:\Evolutions service\Account-master\Prueba\coderush\obj\Debug\netcoreapp2.1\Prueba.csproj.CoreCompileInputs.cache
+D:\Evolutions service\Account-master\Prueba\coderush\obj\Debug\netcoreapp2.1\UserSecretsAssemblyInfo.cs
+D:\Evolutions service\Account-master\Prueba\coderush\obj\Debug\netcoreapp2.1\Prueba.AssemblyInfoInputs.cache
+D:\Evolutions service\Account-master\Prueba\coderush\obj\Debug\netcoreapp2.1\Prueba.AssemblyInfo.cs
+D:\Evolutions service\Account-master\Prueba\coderush\obj\Debug\netcoreapp2.1\es\Prueba.resources.dll
+D:\Evolutions service\Account-master\Prueba\coderush\obj\Debug\netcoreapp2.1\fr\Prueba.resources.dll
+D:\Evolutions service\Account-master\Prueba\coderush\obj\Debug\netcoreapp2.1\Prueba.dll
+D:\Evolutions service\Account-master\Prueba\coderush\obj\Debug\netcoreapp2.1\Prueba.pdb
+D:\Evolutions service\Account-master\Prueba\coderush\obj\Debug\netcoreapp2.1\Prueba.csprojAssemblyReference.cache
+D:\Evolutions service\Account-master seg copia\Prueba\coderush\bin\Debug\netcoreapp2.1\Prueba.deps.json
+D:\Evolutions service\Account-master seg copia\Prueba\coderush\bin\Debug\netcoreapp2.1\Prueba.runtimeconfig.json
+D:\Evolutions service\Account-master seg copia\Prueba\coderush\bin\Debug\netcoreapp2.1\Prueba.runtimeconfig.dev.json
+D:\Evolutions service\Account-master seg copia\Prueba\coderush\bin\Debug\netcoreapp2.1\Prueba.dll
+D:\Evolutions service\Account-master seg copia\Prueba\coderush\bin\Debug\netcoreapp2.1\Prueba.pdb
+D:\Evolutions service\Account-master seg copia\Prueba\coderush\bin\Debug\netcoreapp2.1\es\Prueba.resources.dll
+D:\Evolutions service\Account-master seg copia\Prueba\coderush\bin\Debug\netcoreapp2.1\fr\Prueba.resources.dll
+D:\Evolutions service\Account-master seg copia\Prueba\coderush\obj\Debug\netcoreapp2.1\Prueba.Recursos.Resource.resources
+D:\Evolutions service\Account-master seg copia\Prueba\coderush\obj\Debug\netcoreapp2.1\Prueba.Resources.Sms.resources
+D:\Evolutions service\Account-master seg copia\Prueba\coderush\obj\Debug\netcoreapp2.1\Prueba.Resources.UserProfile.resources
+D:\Evolutions service\Account-master seg copia\Prueba\coderush\obj\Debug\netcoreapp2.1\Prueba.Resources.Controller.Ciudad.es.resources
+D:\Evolutions service\Account-master seg copia\Prueba\coderush\obj\Debug\netcoreapp2.1\Prueba.Resources.Controllers.SmsController.es.resources
+D:\Evolutions service\Account-master seg copia\Prueba\coderush\obj\Debug\netcoreapp2.1\Prueba.Resources.Controllers.SmsController.fr.resources
+D:\Evolutions service\Account-master seg copia\Prueba\coderush\obj\Debug\netcoreapp2.1\Prueba.Resources.Sms.es.resources
+D:\Evolutions service\Account-master seg copia\Prueba\coderush\obj\Debug\netcoreapp2.1\Prueba.Resources.Sms.fr.resources
+D:\Evolutions service\Account-master seg copia\Prueba\coderush\obj\Debug\netcoreapp2.1\Prueba.Resources.UserProfile.es.resources
+D:\Evolutions service\Account-master seg copia\Prueba\coderush\obj\Debug\netcoreapp2.1\Prueba.Resources.UserProfile.fr.resources
+D:\Evolutions service\Account-master seg copia\Prueba\coderush\obj\Debug\netcoreapp2.1\Prueba.Resources.Views.Ciudad.Index.es.resources
+D:\Evolutions service\Account-master seg copia\Prueba\coderush\obj\Debug\netcoreapp2.1\Prueba.Resources.Views.Ciudad.Index.fr.resources
+D:\Evolutions service\Account-master seg copia\Prueba\coderush\obj\Debug\netcoreapp2.1\Prueba.Resources.Views.ClaseTarifaria.Index.es.resources
+D:\Evolutions service\Account-master seg copia\Prueba\coderush\obj\Debug\netcoreapp2.1\Prueba.Resources.Views.ClaseTarifaria.Index.fr.resources
+D:\Evolutions service\Account-master seg copia\Prueba\coderush\obj\Debug\netcoreapp2.1\Prueba.Resources.Views.Credito.Index.es.resources
+D:\Evolutions service\Account-master seg copia\Prueba\coderush\obj\Debug\netcoreapp2.1\Prueba.Resources.Views.Credito.Index.fr.resources
+D:\Evolutions service\Account-master seg copia\Prueba\coderush\obj\Debug\netcoreapp2.1\Prueba.Resources.Views.DatosMedico.Index.es.resources
+D:\Evolutions service\Account-master seg copia\Prueba\coderush\obj\Debug\netcoreapp2.1\Prueba.Resources.Views.DatosMedico.Index.fr.resources
+D:\Evolutions service\Account-master seg copia\Prueba\coderush\obj\Debug\netcoreapp2.1\Prueba.Resources.Views.DatosPaciente.Index.es.resources
+D:\Evolutions service\Account-master seg copia\Prueba\coderush\obj\Debug\netcoreapp2.1\Prueba.Resources.Views.DatosPaciente.Index.fr.resources
+D:\Evolutions service\Account-master seg copia\Prueba\coderush\obj\Debug\netcoreapp2.1\Prueba.Resources.Views.Departamento.Index.es.resources
+D:\Evolutions service\Account-master seg copia\Prueba\coderush\obj\Debug\netcoreapp2.1\Prueba.Resources.Views.Departamento.Index.fr.resources
+D:\Evolutions service\Account-master seg copia\Prueba\coderush\obj\Debug\netcoreapp2.1\Prueba.Resources.Views.EspecialidadMedica.Index.es.resources
+D:\Evolutions service\Account-master seg copia\Prueba\coderush\obj\Debug\netcoreapp2.1\Prueba.Resources.Views.EspecialidadMedica.Index.fr.resources
+D:\Evolutions service\Account-master seg copia\Prueba\coderush\obj\Debug\netcoreapp2.1\Prueba.Resources.Views.Especialidad.Index.es.resources
+D:\Evolutions service\Account-master seg copia\Prueba\coderush\obj\Debug\netcoreapp2.1\Prueba.Resources.Views.Especialidad.Index.fr.resources
+D:\Evolutions service\Account-master seg copia\Prueba\coderush\obj\Debug\netcoreapp2.1\Prueba.Resources.Views.Formulario___Copia.Index.es.resources
+D:\Evolutions service\Account-master seg copia\Prueba\coderush\obj\Debug\netcoreapp2.1\Prueba.Resources.Views.Formulario___Copia.Index.fr.resources
+D:\Evolutions service\Account-master seg copia\Prueba\coderush\obj\Debug\netcoreapp2.1\Prueba.Resources.Views.Formulario.Index.es.resources
+D:\Evolutions service\Account-master seg copia\Prueba\coderush\obj\Debug\netcoreapp2.1\Prueba.Resources.Views.Formulario.Index.fr.resources
+D:\Evolutions service\Account-master seg copia\Prueba\coderush\obj\Debug\netcoreapp2.1\Prueba.Resources.Views.Idioma.Index.es.resources
+D:\Evolutions service\Account-master seg copia\Prueba\coderush\obj\Debug\netcoreapp2.1\Prueba.Resources.Views.Idioma.Index.fr.resources
+D:\Evolutions service\Account-master seg copia\Prueba\coderush\obj\Debug\netcoreapp2.1\Prueba.Resources.Views.MedioPago.Index.es.resources
+D:\Evolutions service\Account-master seg copia\Prueba\coderush\obj\Debug\netcoreapp2.1\Prueba.Resources.Views.MedioPago.Index.fr.resources
+D:\Evolutions service\Account-master seg copia\Prueba\coderush\obj\Debug\netcoreapp2.1\Prueba.Resources.Views.Menu.Index.es.resources
+D:\Evolutions service\Account-master seg copia\Prueba\coderush\obj\Debug\netcoreapp2.1\Prueba.Resources.Views.Menu.Index.fr.resources
+D:\Evolutions service\Account-master seg copia\Prueba\coderush\obj\Debug\netcoreapp2.1\Prueba.Resources.Views.Moneda.Index.es.resources
+D:\Evolutions service\Account-master seg copia\Prueba\coderush\obj\Debug\netcoreapp2.1\Prueba.Resources.Views.Moneda.Index.fr.resources
+D:\Evolutions service\Account-master seg copia\Prueba\coderush\obj\Debug\netcoreapp2.1\Prueba.Resources.Views.Muestra.Index.es.resources
+D:\Evolutions service\Account-master seg copia\Prueba\coderush\obj\Debug\netcoreapp2.1\Prueba.Resources.Views.Muestra.Index.fr.resources
+D:\Evolutions service\Account-master seg copia\Prueba\coderush\obj\Debug\netcoreapp2.1\Prueba.Resources.Views.Pais.Index.es.resources
+D:\Evolutions service\Account-master seg copia\Prueba\coderush\obj\Debug\netcoreapp2.1\Prueba.Resources.Views.Pais.Index.fr.resources
+D:\Evolutions service\Account-master seg copia\Prueba\coderush\obj\Debug\netcoreapp2.1\Prueba.Resources.Views.Pqrs.Index.es.resources
+D:\Evolutions service\Account-master seg copia\Prueba\coderush\obj\Debug\netcoreapp2.1\Prueba.Resources.Views.Pqrs.Index.fr.resources
+D:\Evolutions service\Account-master seg copia\Prueba\coderush\obj\Debug\netcoreapp2.1\Prueba.Resources.Views.Procedimiento.Index.es.resources
+D:\Evolutions service\Account-master seg copia\Prueba\coderush\obj\Debug\netcoreapp2.1\Prueba.Resources.Views.Procedimiento.Index.fr.resources
+D:\Evolutions service\Account-master seg copia\Prueba\coderush\obj\Debug\netcoreapp2.1\Prueba.Resources.Views.Programa.Index.es.resources
+D:\Evolutions service\Account-master seg copia\Prueba\coderush\obj\Debug\netcoreapp2.1\Prueba.Resources.Views.Programa.Index.fr.resources
+D:\Evolutions service\Account-master seg copia\Prueba\coderush\obj\Debug\netcoreapp2.1\Prueba.Resources.Views.Rol.Index.es.resources
+D:\Evolutions service\Account-master seg copia\Prueba\coderush\obj\Debug\netcoreapp2.1\Prueba.Resources.Views.Rol.Index.fr.resources
+D:\Evolutions service\Account-master seg copia\Prueba\coderush\obj\Debug\netcoreapp2.1\Prueba.Resources.Views.SalesType.Index.es.resources
+D:\Evolutions service\Account-master seg copia\Prueba\coderush\obj\Debug\netcoreapp2.1\Prueba.Resources.Views.SalesType.Index.fr.resources
+D:\Evolutions service\Account-master seg copia\Prueba\coderush\obj\Debug\netcoreapp2.1\Prueba.Resources.Views.Sms.Index.es.resources
+D:\Evolutions service\Account-master seg copia\Prueba\coderush\obj\Debug\netcoreapp2.1\Prueba.Resources.Views.Sms.Index.fr.resources
+D:\Evolutions service\Account-master seg copia\Prueba\coderush\obj\Debug\netcoreapp2.1\Prueba.Resources.Views.TarifaProcedimiento.Index.es.resources
+D:\Evolutions service\Account-master seg copia\Prueba\coderush\obj\Debug\netcoreapp2.1\Prueba.Resources.Views.TarifaProcedimiento.Index.fr.resources
+D:\Evolutions service\Account-master seg copia\Prueba\coderush\obj\Debug\netcoreapp2.1\Prueba.Resources.Views.TipoSoporte.Index.es.resources
+D:\Evolutions service\Account-master seg copia\Prueba\coderush\obj\Debug\netcoreapp2.1\Prueba.Resources.Views.TipoSoporte.Index.fr.resources
+D:\Evolutions service\Account-master seg copia\Prueba\coderush\obj\Debug\netcoreapp2.1\Prueba.Resources.Views.TipSalud.Index.es.resources
+D:\Evolutions service\Account-master seg copia\Prueba\coderush\obj\Debug\netcoreapp2.1\Prueba.Resources.Views.TipSalud.Index.fr.resources
+D:\Evolutions service\Account-master seg copia\Prueba\coderush\obj\Debug\netcoreapp2.1\Prueba.Resources.Views.UserRole.UserProfile.es.resources
+D:\Evolutions service\Account-master seg copia\Prueba\coderush\obj\Debug\netcoreapp2.1\Prueba.Resources.Views.UserRole.UserProfile.fr.resources
+D:\Evolutions service\Account-master seg copia\Prueba\coderush\obj\Debug\netcoreapp2.1\Prueba.csproj.GenerateResource.cache
+D:\Evolutions service\Account-master seg copia\Prueba\coderush\obj\Debug\netcoreapp2.1\Prueba.csproj.CoreCompileInputs.cache
+D:\Evolutions service\Account-master seg copia\Prueba\coderush\obj\Debug\netcoreapp2.1\UserSecretsAssemblyInfo.cs
+D:\Evolutions service\Account-master seg copia\Prueba\coderush\obj\Debug\netcoreapp2.1\Prueba.AssemblyInfoInputs.cache
+D:\Evolutions service\Account-master seg copia\Prueba\coderush\obj\Debug\netcoreapp2.1\Prueba.AssemblyInfo.cs
+D:\Evolutions service\Account-master seg copia\Prueba\coderush\obj\Debug\netcoreapp2.1\es\Prueba.resources.dll
+D:\Evolutions service\Account-master seg copia\Prueba\coderush\obj\Debug\netcoreapp2.1\fr\Prueba.resources.dll
+D:\Evolutions service\Account-master seg copia\Prueba\coderush\obj\Debug\netcoreapp2.1\Prueba.dll
+D:\Evolutions service\Account-master seg copia\Prueba\coderush\obj\Debug\netcoreapp2.1\Prueba.pdb
+D:\Evolutions service\Account-master seg copia\Prueba\coderush\obj\Debug\netcoreapp2.1\Prueba.csprojAssemblyReference.cache
+C:\Codigos\C#\Net Core\Plantilla\Prueba\coderush\bin\Debug\netcoreapp2.1\appsettings.Development.json
+C:\Codigos\C#\Net Core\Plantilla\Prueba\coderush\bin\Debug\netcoreapp2.1\appsettings.json
+C:\Codigos\C#\Net Core\Plantilla\Prueba\coderush\bin\Debug\netcoreapp2.1\bundleconfig.json
+C:\Codigos\C#\Net Core\Plantilla\Prueba\coderush\bin\Debug\netcoreapp2.1\Prueba.deps.json
+C:\Codigos\C#\Net Core\Plantilla\Prueba\coderush\bin\Debug\netcoreapp2.1\Prueba.runtimeconfig.json
+C:\Codigos\C#\Net Core\Plantilla\Prueba\coderush\bin\Debug\netcoreapp2.1\Prueba.runtimeconfig.dev.json
+C:\Codigos\C#\Net Core\Plantilla\Prueba\coderush\bin\Debug\netcoreapp2.1\Prueba.dll
+C:\Codigos\C#\Net Core\Plantilla\Prueba\coderush\bin\Debug\netcoreapp2.1\Prueba.pdb
+C:\Codigos\C#\Net Core\Plantilla\Prueba\coderush\bin\Debug\netcoreapp2.1\es\Prueba.resources.dll
+C:\Codigos\C#\Net Core\Plantilla\Prueba\coderush\bin\Debug\netcoreapp2.1\fr\Prueba.resources.dll
+C:\Codigos\C#\Net Core\Plantilla\Prueba\coderush\obj\Debug\netcoreapp2.1\Prueba.Recursos.Resource.resources
+C:\Codigos\C#\Net Core\Plantilla\Prueba\coderush\obj\Debug\netcoreapp2.1\Prueba.Resources.Sms.resources
+C:\Codigos\C#\Net Core\Plantilla\Prueba\coderush\obj\Debug\netcoreapp2.1\Prueba.Resources.UserProfile.resources
+C:\Codigos\C#\Net Core\Plantilla\Prueba\coderush\obj\Debug\netcoreapp2.1\Prueba.Resources.Controller.Ciudad.es.resources
+C:\Codigos\C#\Net Core\Plantilla\Prueba\coderush\obj\Debug\netcoreapp2.1\Prueba.Resources.Controllers.SmsController.es.resources
+C:\Codigos\C#\Net Core\Plantilla\Prueba\coderush\obj\Debug\netcoreapp2.1\Prueba.Resources.Controllers.SmsController.fr.resources
+C:\Codigos\C#\Net Core\Plantilla\Prueba\coderush\obj\Debug\netcoreapp2.1\Prueba.Resources.Sms.es.resources
+C:\Codigos\C#\Net Core\Plantilla\Prueba\coderush\obj\Debug\netcoreapp2.1\Prueba.Resources.Sms.fr.resources
+C:\Codigos\C#\Net Core\Plantilla\Prueba\coderush\obj\Debug\netcoreapp2.1\Prueba.Resources.UserProfile.es.resources
+C:\Codigos\C#\Net Core\Plantilla\Prueba\coderush\obj\Debug\netcoreapp2.1\Prueba.Resources.UserProfile.fr.resources
+C:\Codigos\C#\Net Core\Plantilla\Prueba\coderush\obj\Debug\netcoreapp2.1\Prueba.Resources.Views.Ciudad.Index.es.resources
+C:\Codigos\C#\Net Core\Plantilla\Prueba\coderush\obj\Debug\netcoreapp2.1\Prueba.Resources.Views.Ciudad.Index.fr.resources
+C:\Codigos\C#\Net Core\Plantilla\Prueba\coderush\obj\Debug\netcoreapp2.1\Prueba.Resources.Views.ClaseTarifaria.Index.es.resources
+C:\Codigos\C#\Net Core\Plantilla\Prueba\coderush\obj\Debug\netcoreapp2.1\Prueba.Resources.Views.ClaseTarifaria.Index.fr.resources
+C:\Codigos\C#\Net Core\Plantilla\Prueba\coderush\obj\Debug\netcoreapp2.1\Prueba.Resources.Views.Credito.Index.es.resources
+C:\Codigos\C#\Net Core\Plantilla\Prueba\coderush\obj\Debug\netcoreapp2.1\Prueba.Resources.Views.Credito.Index.fr.resources
+C:\Codigos\C#\Net Core\Plantilla\Prueba\coderush\obj\Debug\netcoreapp2.1\Prueba.Resources.Views.DatosMedico.Index.es.resources
+C:\Codigos\C#\Net Core\Plantilla\Prueba\coderush\obj\Debug\netcoreapp2.1\Prueba.Resources.Views.DatosMedico.Index.fr.resources
+C:\Codigos\C#\Net Core\Plantilla\Prueba\coderush\obj\Debug\netcoreapp2.1\Prueba.Resources.Views.DatosPaciente.Index.es.resources
+C:\Codigos\C#\Net Core\Plantilla\Prueba\coderush\obj\Debug\netcoreapp2.1\Prueba.Resources.Views.DatosPaciente.Index.fr.resources
+C:\Codigos\C#\Net Core\Plantilla\Prueba\coderush\obj\Debug\netcoreapp2.1\Prueba.Resources.Views.Departamento.Index.es.resources
+C:\Codigos\C#\Net Core\Plantilla\Prueba\coderush\obj\Debug\netcoreapp2.1\Prueba.Resources.Views.Departamento.Index.fr.resources
+C:\Codigos\C#\Net Core\Plantilla\Prueba\coderush\obj\Debug\netcoreapp2.1\Prueba.Resources.Views.EspecialidadMedica.Index.es.resources
+C:\Codigos\C#\Net Core\Plantilla\Prueba\coderush\obj\Debug\netcoreapp2.1\Prueba.Resources.Views.EspecialidadMedica.Index.fr.resources
+C:\Codigos\C#\Net Core\Plantilla\Prueba\coderush\obj\Debug\netcoreapp2.1\Prueba.Resources.Views.Especialidad.Index.es.resources
+C:\Codigos\C#\Net Core\Plantilla\Prueba\coderush\obj\Debug\netcoreapp2.1\Prueba.Resources.Views.Especialidad.Index.fr.resources
+C:\Codigos\C#\Net Core\Plantilla\Prueba\coderush\obj\Debug\netcoreapp2.1\Prueba.Resources.Views.Formulario___Copia.Index.es.resources
+C:\Codigos\C#\Net Core\Plantilla\Prueba\coderush\obj\Debug\netcoreapp2.1\Prueba.Resources.Views.Formulario___Copia.Index.fr.resources
+C:\Codigos\C#\Net Core\Plantilla\Prueba\coderush\obj\Debug\netcoreapp2.1\Prueba.Resources.Views.Formulario.Index.es.resources
+C:\Codigos\C#\Net Core\Plantilla\Prueba\coderush\obj\Debug\netcoreapp2.1\Prueba.Resources.Views.Formulario.Index.fr.resources
+C:\Codigos\C#\Net Core\Plantilla\Prueba\coderush\obj\Debug\netcoreapp2.1\Prueba.Resources.Views.Idioma.Index.es.resources
+C:\Codigos\C#\Net Core\Plantilla\Prueba\coderush\obj\Debug\netcoreapp2.1\Prueba.Resources.Views.Idioma.Index.fr.resources
+C:\Codigos\C#\Net Core\Plantilla\Prueba\coderush\obj\Debug\netcoreapp2.1\Prueba.Resources.Views.MedioPago.Index.es.resources
+C:\Codigos\C#\Net Core\Plantilla\Prueba\coderush\obj\Debug\netcoreapp2.1\Prueba.Resources.Views.MedioPago.Index.fr.resources
+C:\Codigos\C#\Net Core\Plantilla\Prueba\coderush\obj\Debug\netcoreapp2.1\Prueba.Resources.Views.Menu.Index.es.resources
+C:\Codigos\C#\Net Core\Plantilla\Prueba\coderush\obj\Debug\netcoreapp2.1\Prueba.Resources.Views.Menu.Index.fr.resources
+C:\Codigos\C#\Net Core\Plantilla\Prueba\coderush\obj\Debug\netcoreapp2.1\Prueba.Resources.Views.Moneda.Index.es.resources
+C:\Codigos\C#\Net Core\Plantilla\Prueba\coderush\obj\Debug\netcoreapp2.1\Prueba.Resources.Views.Moneda.Index.fr.resources
+C:\Codigos\C#\Net Core\Plantilla\Prueba\coderush\obj\Debug\netcoreapp2.1\Prueba.Resources.Views.Muestra.Index.es.resources
+C:\Codigos\C#\Net Core\Plantilla\Prueba\coderush\obj\Debug\netcoreapp2.1\Prueba.Resources.Views.Muestra.Index.fr.resources
+C:\Codigos\C#\Net Core\Plantilla\Prueba\coderush\obj\Debug\netcoreapp2.1\Prueba.Resources.Views.Pais.Index.es.resources
+C:\Codigos\C#\Net Core\Plantilla\Prueba\coderush\obj\Debug\netcoreapp2.1\Prueba.Resources.Views.Pais.Index.fr.resources
+C:\Codigos\C#\Net Core\Plantilla\Prueba\coderush\obj\Debug\netcoreapp2.1\Prueba.Resources.Views.Pqrs.Index.es.resources
+C:\Codigos\C#\Net Core\Plantilla\Prueba\coderush\obj\Debug\netcoreapp2.1\Prueba.Resources.Views.Pqrs.Index.fr.resources
+C:\Codigos\C#\Net Core\Plantilla\Prueba\coderush\obj\Debug\netcoreapp2.1\Prueba.Resources.Views.Procedimiento.Index.es.resources
+C:\Codigos\C#\Net Core\Plantilla\Prueba\coderush\obj\Debug\netcoreapp2.1\Prueba.Resources.Views.Procedimiento.Index.fr.resources
+C:\Codigos\C#\Net Core\Plantilla\Prueba\coderush\obj\Debug\netcoreapp2.1\Prueba.Resources.Views.Programa.Index.es.resources
+C:\Codigos\C#\Net Core\Plantilla\Prueba\coderush\obj\Debug\netcoreapp2.1\Prueba.Resources.Views.Programa.Index.fr.resources
+C:\Codigos\C#\Net Core\Plantilla\Prueba\coderush\obj\Debug\netcoreapp2.1\Prueba.Resources.Views.Rol.Index.es.resources
+C:\Codigos\C#\Net Core\Plantilla\Prueba\coderush\obj\Debug\netcoreapp2.1\Prueba.Resources.Views.Rol.Index.fr.resources
+C:\Codigos\C#\Net Core\Plantilla\Prueba\coderush\obj\Debug\netcoreapp2.1\Prueba.Resources.Views.SalesType.Index.es.resources
+C:\Codigos\C#\Net Core\Plantilla\Prueba\coderush\obj\Debug\netcoreapp2.1\Prueba.Resources.Views.SalesType.Index.fr.resources
+C:\Codigos\C#\Net Core\Plantilla\Prueba\coderush\obj\Debug\netcoreapp2.1\Prueba.Resources.Views.Sms.Index.es.resources
+C:\Codigos\C#\Net Core\Plantilla\Prueba\coderush\obj\Debug\netcoreapp2.1\Prueba.Resources.Views.Sms.Index.fr.resources
+C:\Codigos\C#\Net Core\Plantilla\Prueba\coderush\obj\Debug\netcoreapp2.1\Prueba.Resources.Views.TarifaProcedimiento.Index.es.resources
+C:\Codigos\C#\Net Core\Plantilla\Prueba\coderush\obj\Debug\netcoreapp2.1\Prueba.Resources.Views.TarifaProcedimiento.Index.fr.resources
+C:\Codigos\C#\Net Core\Plantilla\Prueba\coderush\obj\Debug\netcoreapp2.1\Prueba.Resources.Views.TipoSoporte.Index.es.resources
+C:\Codigos\C#\Net Core\Plantilla\Prueba\coderush\obj\Debug\netcoreapp2.1\Prueba.Resources.Views.TipoSoporte.Index.fr.resources
+C:\Codigos\C#\Net Core\Plantilla\Prueba\coderush\obj\Debug\netcoreapp2.1\Prueba.Resources.Views.TipSalud.Index.es.resources
+C:\Codigos\C#\Net Core\Plantilla\Prueba\coderush\obj\Debug\netcoreapp2.1\Prueba.Resources.Views.TipSalud.Index.fr.resources
+C:\Codigos\C#\Net Core\Plantilla\Prueba\coderush\obj\Debug\netcoreapp2.1\Prueba.Resources.Views.UserRole.UserProfile.es.resources
+C:\Codigos\C#\Net Core\Plantilla\Prueba\coderush\obj\Debug\netcoreapp2.1\Prueba.Resources.Views.UserRole.UserProfile.fr.resources
+C:\Codigos\C#\Net Core\Plantilla\Prueba\coderush\obj\Debug\netcoreapp2.1\Prueba.csproj.GenerateResource.cache
+C:\Codigos\C#\Net Core\Plantilla\Prueba\coderush\obj\Debug\netcoreapp2.1\Prueba.AssemblyInfoInputs.cache
+C:\Codigos\C#\Net Core\Plantilla\Prueba\coderush\obj\Debug\netcoreapp2.1\Prueba.AssemblyInfo.cs
+C:\Codigos\C#\Net Core\Plantilla\Prueba\coderush\obj\Debug\netcoreapp2.1\Prueba.csproj.CoreCompileInputs.cache
+C:\Codigos\C#\Net Core\Plantilla\Prueba\coderush\obj\Debug\netcoreapp2.1\UserSecretsAssemblyInfo.cs
+C:\Codigos\C#\Net Core\Plantilla\Prueba\coderush\obj\Debug\netcoreapp2.1\es\Prueba.resources.dll
+C:\Codigos\C#\Net Core\Plantilla\Prueba\coderush\obj\Debug\netcoreapp2.1\fr\Prueba.resources.dll
+C:\Codigos\C#\Net Core\Plantilla\Prueba\coderush\obj\Debug\netcoreapp2.1\Prueba.dll
+C:\Codigos\C#\Net Core\Plantilla\Prueba\coderush\obj\Debug\netcoreapp2.1\Prueba.pdb
+C:\Codigos\C#\Net Core\Plantilla\Prueba\coderush\obj\Debug\netcoreapp2.1\Prueba.genruntimeconfig.cache
+C:\Codigos\C#\Net Core\Plantilla\Prueba\coderush\obj\Debug\netcoreapp2.1\Prueba.csproj.AssemblyReference.cache
