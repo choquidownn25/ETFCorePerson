@@ -7,11 +7,11 @@ using Microsoft.AspNetCore.Hosting;
 using Microsoft.AspNetCore.Http;
 using Microsoft.AspNetCore.Identity;
 using Microsoft.AspNetCore.Mvc;
-using coderush.Data;
-using coderush.Models;
-using coderush.Services;
+using Prueba.Data;
+using Prueba.Models;
+using Prueba.Services;
 
-namespace coderush.Controllers.Api
+namespace Prueba.Controllers.Api
 {
     [Produces("application/json")]
     [Route("api/UploadProfilePicture")]

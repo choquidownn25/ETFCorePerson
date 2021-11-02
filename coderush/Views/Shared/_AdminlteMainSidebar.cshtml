@@ -1,5 +1,5 @@
-﻿@model coderush.Models.ApplicationUser
-@inject coderush.Data.ApplicationDbContext Context
+﻿@model Prueba.Models.ApplicationUser
+@inject Prueba.Data.ApplicationDbContext Context
 
 @{
     UserProfile profile = Context.UserProfile.SingleOrDefault(x => x.ApplicationUserId.Equals(Model.Id));
@@ -20,17 +20,54 @@
 
         <!-- sidebar menu: : style can be found in sidebar.less -->
         <ul class="sidebar-menu" data-widget="tree">
-            <li class="header">Prueba</li>
-            <li class="@Html.IsSelected(controller: MainMenu.Personas.ControllerName, action: MainMenu.Personas.ActionName)">
-                <a href="@MainMenu.Personas.Path">
-                    <i class="fa fa-users"></i> <span>@MainMenu.Personas.PageName</span>
+            <li class="header">Configuración</li>
+            <li class="@Html.IsSelected(controller: MainMenu.Brands.ControllerName, action: MainMenu.Brands.ActionName)">
+                <a href="@MainMenu.Brands.Path">
+                    <i class="fa fa-users"></i> <span>@MainMenu.Brands.PageName</span>
                 </a>
             </li>
-            <li class="@Html.IsSelected(controller: MainMenu.TipoDocumento.ControllerName, action: MainMenu.TipoDocumento.ActionName)">
-                <a href="@MainMenu.TipoDocumento.Path">
-                    <i class="fa fa-users"></i> <span>@MainMenu.TipoDocumento.PageName</span>
+            <li class="@Html.IsSelected(controller: MainMenu.Categories.ControllerName, action: MainMenu.Categories.ActionName)">
+                <a href="@MainMenu.Categories.Path">
+                    <i class="fa fa-users"></i> <span>@MainMenu.Categories.PageName</span>
                 </a>
             </li>
+            <li class="@Html.IsSelected(controller: MainMenu.Customers.ControllerName, action: MainMenu.Customers.ActionName)">
+                <a href="@MainMenu.Customers.Path">
+                    <i class="fa fa-users"></i> <span>@MainMenu.Customers.PageName</span>
+                </a>
+            </li>
+            <li class="@Html.IsSelected(controller: MainMenu.Products.ControllerName, action: MainMenu.Products.ActionName)">
+                <a href="@MainMenu.Products.Path">
+                    <i class="fa fa-users"></i> <span>@MainMenu.Products.PageName</span>
+                </a>
+            </li>
+            <li class="@Html.IsSelected(controller: MainMenu.Stores.ControllerName, action: MainMenu.Stores.ActionName)">
+                <a href="@MainMenu.Stores.Path">
+                    <i class="fa fa-users"></i> <span>@MainMenu.Stores.PageName</span>
+                </a>
+            </li>
+            <li class="@Html.IsSelected(controller: MainMenu.Staffs.ControllerName, action: MainMenu.Staffs.ActionName)">
+                <a href="@MainMenu.Staffs.Path">
+                    <i class="fa fa-users"></i> <span>@MainMenu.Staffs.PageName</span>
+                </a>
+            </li>
+            <li class="@Html.IsSelected(controller: MainMenu.Stocks.ControllerName, action: MainMenu.Stocks.ActionName)">
+                <a href="@MainMenu.Stocks.Path">
+                    <i class="fa fa-users"></i> <span>@MainMenu.Stocks.PageName</span>
+                </a>
+            </li>
+            <li class="header">Ordenes de Compra</li>
+            <li class="@Html.IsSelected(controller: MainMenu.Orders.ControllerName, action: MainMenu.Orders.ActionName)">
+                <a href="@MainMenu.Orders.Path">
+                    <i class="fa fa-users"></i> <span>@MainMenu.Orders.PageName</span>
+                </a>
+            </li>
+            <li class="@Html.IsSelected(controller: MainMenu.OrderItems.ControllerName, action: MainMenu.OrderItems.ActionName)">
+                <a href="@MainMenu.OrderItems.Path">
+                    <i class="fa fa-users"></i> <span>@MainMenu.OrderItems.PageName</span>
+                </a>
+            </li>
+            <li class="header">Utilidades</li>
             <li class="@Html.IsSelected(controller: MainMenu.Triki.ControllerName, action: MainMenu.Triki.ActionName)">
                 <a href="@MainMenu.Triki.Path">
                     <i class="fa fa-users"></i> <span>@MainMenu.Triki.PageName</span>

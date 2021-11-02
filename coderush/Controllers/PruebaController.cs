@@ -2,11 +2,11 @@
 using System.Collections.Generic;
 using System.Net.Http;
 using System.Threading.Tasks;
-using coderush.Models;
+using Prueba.Models;
 using Microsoft.AspNetCore.Mvc;
 using Newtonsoft.Json;
 
-namespace coderush.Controllers
+namespace Prueba.Controllers
 {
     public class PruebaController : Controller
     {

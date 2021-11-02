@@ -1,11 +1,11 @@
-﻿using coderush.Data;
+﻿using Prueba.Data;
 using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Threading;
 using System.Threading.Tasks;
 
-namespace coderush.Services
+namespace Prueba.Services
 {
     public class NumberSequence : INumberSequence
     {

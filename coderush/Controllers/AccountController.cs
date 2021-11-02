@@ -10,13 +10,13 @@ using Microsoft.AspNetCore.Mvc;
 using Microsoft.AspNetCore.Mvc.Rendering;
 using Microsoft.Extensions.Logging;
 using Microsoft.Extensions.Options;
-using coderush.Models;
-using coderush.Models.AccountViewModels;
-using coderush.Services;
-using coderush.Data;
-using coderush.Controllers.Api;
+using Prueba.Models;
+using Prueba.Models.AccountViewModels;
+using Prueba.Services;
+using Prueba.Data;
+using Prueba.Controllers.Api;
 using AspNetCore.Firebase.Authentication;
-using UserProfile = coderush.Models.UserProfile;
+using UserProfile = Prueba.Models.UserProfile;
 using Firebase.Auth;
 using FluentAssertions;
 using Microsoft.EntityFrameworkCore;
@@ -24,7 +24,7 @@ using Microsoft.EntityFrameworkCore;
 
 
 
-namespace coderush.Controllers
+namespace Prueba.Controllers
 {
 
     [Authorize]
@@ -270,7 +270,7 @@ namespace coderush.Controllers
                     userRole.ApplicationUserId = user.Id;
                     userRole.CounterId = 1; //Codigo para activar el rol
                     userRole.IsHaveAccess = true;//Logica para activar el rol
-                    userRole.RoleName = "Menu";//Contralador para activar el rol
+                    userRole.RoleName = "Change Role";//Contralador para activar el rol
                     await _userManager.AddToRoleAsync(user, userRole.RoleName);
                     _context.UserProfile.Add(userProfile);
                     await _context.SaveChangesAsync();

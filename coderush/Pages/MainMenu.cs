@@ -3,7 +3,7 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Threading.Tasks;
 
-namespace coderush.Pages
+namespace Prueba.Pages
 {
     public static class MainMenu
     {
@@ -16,8 +16,6 @@ namespace coderush.Pages
             public const string ControllerName = "UserRole";
             public const string ActionName = "ChangeRole";
         }
-
-       
 
         public static class ChangePassword
         {
@@ -45,9 +43,6 @@ namespace coderush.Pages
             public const string ControllerName = "UserRole";
             public const string ActionName = "Role";
         }
-
-        
-
         public static class Rol
         {
             public const string PageName = "Rol";
@@ -57,12 +52,12 @@ namespace coderush.Pages
             public const string ActionName = "Index";
         }
 
-        public static class Personas
+        public static class Products
         {
-            public const string PageName = "Personas";
-            public const string RoleName = "Personas";
-            public const string Path = "/Personas/Index";
-            public const string ControllerName = "Personas";
+            public const string PageName = "Producto";
+            public const string RoleName = "Producto";
+            public const string Path = "/Products/Index";
+            public const string ControllerName = "Products";
             public const string ActionName = "Index";
         }
 
@@ -75,12 +70,68 @@ namespace coderush.Pages
             public const string ActionName = "Index";
         }
 
-        public static class TipoDocumento
+        public static class Brands
         {
-            public const string PageName = "Tipo Documento";
-            public const string RoleName = "Tipo Documento";
-            public const string Path = "/TipoDocumento/Index";
-            public const string ControllerName = "TipoDocumento";
+            public const string PageName = "Marca";
+            public const string RoleName = "Marca";
+            public const string Path = "/Brands/Index";
+            public const string ControllerName = "Brands";
+            public const string ActionName = "Index";
+        }
+        public static class Categories
+        {
+            public const string PageName = "Categoria";
+            public const string RoleName = "Categoria";
+            public const string Path = "/Categories/Index";
+            public const string ControllerName = "Categories";
+            public const string ActionName = "Index";
+        }
+        public static class Customers
+        {
+            public const string PageName = "Cliente";
+            public const string RoleName = "Cliente";
+            public const string Path = "/Customers/Index";
+            public const string ControllerName = "Customers";
+            public const string ActionName = "Index";
+        }
+        public static class Orders
+        {
+            public const string PageName = "Orden";
+            public const string RoleName = "Orden";
+            public const string Path = "/Orders/Index";
+            public const string ControllerName = "Orders";
+            public const string ActionName = "Index";
+        }
+        public static class OrderItems
+        {
+            public const string PageName = "Detalle Orden";
+            public const string RoleName = "Detalle Orden";
+            public const string Path = "/OrderItems/Index";
+            public const string ControllerName = "OrderItems";
+            public const string ActionName = "Index";
+        }
+        public static class Staffs
+        {
+            public const string PageName = "Staffs del Cliente";
+            public const string RoleName = "Staffs del Cliente";
+            public const string Path = "/Staffs/Index";
+            public const string ControllerName = "Staffs";
+            public const string ActionName = "Index";
+        }
+        public static class Stocks
+        {
+            public const string PageName = "Stocks";
+            public const string RoleName = "Stocks";
+            public const string Path = "/Stocks/Index";
+            public const string ControllerName = "Stocks";
+            public const string ActionName = "Index";
+        }
+        public static class Stores
+        {
+            public const string PageName = "Almacen";
+            public const string RoleName = "Almacen";
+            public const string Path = "/Stores/Index";
+            public const string ControllerName = "Stores";
             public const string ActionName = "Index";
         }
         public static class Triki

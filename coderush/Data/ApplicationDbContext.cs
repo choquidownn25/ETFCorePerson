@@ -4,9 +4,9 @@ using System.Linq;
 using System.Threading.Tasks;
 using Microsoft.AspNetCore.Identity.EntityFrameworkCore;
 using Microsoft.EntityFrameworkCore;
-using coderush.Models;
+using Prueba.Models;
 
-namespace coderush.Data
+namespace Prueba.Data
 {
     public class ApplicationDbContext : IdentityDbContext<ApplicationUser>
     {
@@ -23,10 +23,9 @@ namespace coderush.Data
             // Add your customizations after calling base.OnModelCreating(builder);
         }
 
-        public DbSet<coderush.Models.ApplicationUser> ApplicationUser { get; set; }
-        public DbSet<coderush.Models.NumberSequence> NumberSequence { get; set; }
-        public DbSet<coderush.Models.UserProfile> UserProfile { get; set; }
-        public DbSet<coderush.Models.TipoDocumento> TipoDocumento { get; set; }
-        public DbSet<coderush.Models.Personas> Personas { get; set; }
+        public DbSet<Prueba.Models.ApplicationUser> ApplicationUser { get; set; }
+        public DbSet<Prueba.Models.NumberSequence> NumberSequence { get; set; }
+        public DbSet<Prueba.Models.UserProfile> UserProfile { get; set; }
+       
     }
 }

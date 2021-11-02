@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Codigos\\C#\\Net Core\\Plantilla\\Prueba\\coderush\\Prueba.csproj": {}
+    "C:\\Sana\\ETFCorePerson\\coderush\\Prueba.csproj": {}
   },
   "projects": {
-    "C:\\Codigos\\C#\\Net Core\\Plantilla\\Prueba\\coderush\\Prueba.csproj": {
+    "C:\\Sana\\ETFCorePerson\\coderush\\Prueba.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Codigos\\C#\\Net Core\\Plantilla\\Prueba\\coderush\\Prueba.csproj",
+        "projectUniqueName": "C:\\Sana\\ETFCorePerson\\coderush\\Prueba.csproj",
         "projectName": "Prueba",
-        "projectPath": "C:\\Codigos\\C#\\Net Core\\Plantilla\\Prueba\\coderush\\Prueba.csproj",
+        "projectPath": "C:\\Sana\\ETFCorePerson\\coderush\\Prueba.csproj",
         "packagesPath": "C:\\Users\\Administrador\\.nuget\\packages\\",
-        "outputPath": "C:\\Codigos\\C#\\Net Core\\Plantilla\\Prueba\\coderush\\obj\\",
+        "outputPath": "C:\\Sana\\ETFCorePerson\\coderush\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
@@ -95,6 +95,18 @@
               "suppressParent": "All",
               "target": "Package",
               "version": "[2.9.4, )"
+            },
+            "Microsoft.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[2.2.6, )"
+            },
+            "Microsoft.EntityFrameworkCore.SqlServer": {
+              "target": "Package",
+              "version": "[2.2.6, )"
+            },
+            "Microsoft.EntityFrameworkCore.SqlServer.Design": {
+              "target": "Package",
+              "version": "[1.1.6, )"
             },
             "Microsoft.EntityFrameworkCore.Tools": {
               "suppressParent": "All",

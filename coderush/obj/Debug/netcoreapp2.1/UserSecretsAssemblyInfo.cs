@@ -11,7 +11,7 @@
 using System;
 using System.Reflection;
 
-[assembly: Microsoft.Extensions.Configuration.UserSecrets.UserSecretsIdAttribute("aspnet-coderush-090A0FD1-7DA3-4537-B736-EF0C0F063935")]
+[assembly: Microsoft.Extensions.Configuration.UserSecrets.UserSecretsIdAttribute("aspnet-Prueba-090A0FD1-7DA3-4537-B736-EF0C0F063935")]
 
 // Generado por la clase WriteCodeFragment de MSBuild.
 

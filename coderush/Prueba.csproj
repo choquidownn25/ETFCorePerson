@@ -2,7 +2,7 @@
 
   <PropertyGroup>
     <TargetFramework>netcoreapp2.1</TargetFramework>
-    <UserSecretsId>aspnet-coderush-090A0FD1-7DA3-4537-B736-EF0C0F063935</UserSecretsId>
+    <UserSecretsId>aspnet-Prueba-090A0FD1-7DA3-4537-B736-EF0C0F063935</UserSecretsId>
   </PropertyGroup>
 
   <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Release|AnyCPU'">
@@ -11,6 +11,10 @@
 
 
   <ItemGroup>
+    <PackageReference Include="Microsoft.EntityFrameworkCore" Version="2.2.6" />
+    <PackageReference Include="Microsoft.EntityFrameworkCore.SqlServer" Version="2.2.6" />
+    <PackageReference Include="Microsoft.EntityFrameworkCore.SqlServer.Design" Version="1.1.6" />
+    <PackageReference Include="Microsoft.EntityFrameworkCore.Tools" Version="2.2.6" PrivateAssets="All" />
     <PackageReference Include="AlertifyJS" Version="1.13.1" />
     <PackageReference Include="AspNetCore.Firebase.Authentication" Version="2.0.1" />
     <PackageReference Include="Braintree" Version="4.12.0" />
@@ -41,8 +45,8 @@
   </ItemGroup>
 
   <ItemGroup>
-    <Folder Include="..\..\..\Asp.Net-User-Role-Membership-Example-master %25281%2529\DrHelp .Net Core\coderush\Utility\PaymentGateway\" />
-    <Folder Include="coderush\" />
+    <Folder Include="..\..\..\Asp.Net-User-Role-Membership-Example-master %25281%2529\DrHelp .Net Core\Prueba\Utility\PaymentGateway\" />
+    <Folder Include="Prueba\" />
     <Folder Include="wwwroot\react\" />
     <Folder Include="wwwroot\scripts\Sweetalert\" />
   </ItemGroup>
@@ -52,20 +56,30 @@
   </ItemGroup>
 
   <ItemGroup>
+    <Reference Include="CapaConexion">
+      <HintPath>bin\Debug\netcoreapp2.1\CapaConexion.dll</HintPath>
+    </Reference>
+    <Reference Include="CapaDomain">
+      <HintPath>bin\Debug\netcoreapp2.1\CapaDomain.dll</HintPath>
+    </Reference>
+    <Reference Include="CapaRepository">
+      <HintPath>bin\Debug\netcoreapp2.1\CapaRepository.dll</HintPath>
+    </Reference>
+    <Reference Include="CapaService">
+      <HintPath>bin\Debug\netcoreapp2.1\CapaService.dll</HintPath>
+    </Reference>
     <Reference Include="System.Web.Mvc">
       <HintPath>..\..\..\..\..\..\C#\New folder\Architecture.UI - copia\bin\System.Web.Mvc.dll</HintPath>
     </Reference>
   </ItemGroup>
 
   <ItemGroup>
-    <Content Update="Views\Personas\Index.cshtml">
-      <Pack>$(IncludeRazorContentInPack)</Pack>
-    </Content>
-    <Content Update="Views\TipoDocumento\Index.cshtml">
-      <Pack>$(IncludeRazorContentInPack)</Pack>
-    </Content>
     <Content Update="Views\Triki\Index.cshtml">
       <Pack>$(IncludeRazorContentInPack)</Pack>
+    </Content>
+    <Content Update="wwwroot\scripts\Staffs\Index.js">
+      <ExcludeFromSingleFile>true</ExcludeFromSingleFile>
+      <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
     </Content>
   </ItemGroup>
 

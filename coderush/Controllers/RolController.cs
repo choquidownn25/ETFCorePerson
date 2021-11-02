@@ -8,7 +8,7 @@ using Microsoft.AspNetCore.Localization;
 using Microsoft.AspNetCore.Http;
 using Microsoft.Extensions.Localization;
 
-namespace coderush.Controllers
+namespace Prueba.Controllers
 {
     [Authorize(Roles = Pages.MainMenu.Rol.RoleName)]
     public class RolController : Controller

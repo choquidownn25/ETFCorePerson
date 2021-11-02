@@ -1,6 +1,6 @@
 ﻿using System.ComponentModel.DataAnnotations;
 
-namespace coderush.Models.AccountViewModels
+namespace Prueba.Models.AccountViewModels
 {
     public class RegisterViewModel
     {

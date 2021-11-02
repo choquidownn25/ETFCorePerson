@@ -8,9 +8,9 @@ using Microsoft.EntityFrameworkCore;
 using Microsoft.AspNetCore.Hosting;
 using Microsoft.Extensions.Configuration;
 using Microsoft.Extensions.DependencyInjection;
-using coderush.Data;
-using coderush.Models;
-using coderush.Services;
+using Prueba.Data;
+using Prueba.Models;
+using Prueba.Services;
 using Newtonsoft.Json.Serialization;
 using Microsoft.AspNetCore.Authentication.Facebook;
 using System.Globalization;
@@ -20,7 +20,7 @@ using Microsoft.Extensions.Logging;
 using Microsoft.Extensions.Options;
 //using Conexion.Models;
 
-namespace coderush
+namespace Prueba
 {
     public class Startup
     {

@@ -2,18 +2,18 @@
 using System.Collections.Generic;
 using System.Linq;
 using System.Threading.Tasks;
-using coderush.Data;
-using coderush.Models;
-using coderush.Models.AccountViewModels;
-using coderush.Models.SyncfusionViewModels;
-using coderush.Services;
+using Prueba.Data;
+using Prueba.Models;
+using Prueba.Models.AccountViewModels;
+using Prueba.Models.SyncfusionViewModels;
+using Prueba.Services;
 using Microsoft.AspNetCore.Http;
 using Microsoft.AspNetCore.Identity;
 using Microsoft.AspNetCore.Mvc;
 using Microsoft.AspNetCore.Authorization;
 
 
-namespace coderush.Controllers.Api
+namespace Prueba.Controllers.Api
 {
     [Authorize]
     [Produces("application/json")]

@@ -4,11 +4,11 @@ using System.Diagnostics;
 using System.Linq;
 using System.Threading.Tasks;
 using Microsoft.AspNetCore.Mvc;
-using coderush.Models;
+using Prueba.Models;
 using Microsoft.AspNetCore.Localization;
 using Microsoft.AspNetCore.Http;
 
-namespace coderush.Controllers
+namespace Prueba.Controllers
 {
     public class HomeController : Controller
     {

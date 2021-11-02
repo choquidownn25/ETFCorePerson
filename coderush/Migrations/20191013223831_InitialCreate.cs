@@ -1,6 +1,6 @@
 ﻿using Microsoft.EntityFrameworkCore.Migrations;
 
-namespace coderush.Migrations
+namespace Prueba.Migrations
 {
     public partial class InitialCreate : Migration
     {
